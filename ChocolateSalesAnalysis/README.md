@@ -41,5 +41,8 @@ In this, we analyze chocolate sales from different salespeople in respective geo
 ![image](https://github.com/Kanikamittal99/Excel-DataAnalysis/assets/32505627/93dda794-251e-4152-a0f8-4a305a2017ef)
 
 ### 9 Dynamic country-level Sales Report
+![image](https://github.com/Kanikamittal99/Excel-DataAnalysis/assets/32505627/e58fa443-340e-4c39-a69d-fedff6fddf01)
+
 ### 10	Which products to discontinue?
+![image](https://github.com/Kanikamittal99/Excel-DataAnalysis/assets/32505627/93cebda5-4b4e-4aa4-b2c5-6baf02ff3e1d)
 
